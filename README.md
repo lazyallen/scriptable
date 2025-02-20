@@ -4,6 +4,6 @@ A collection of useful iOS widgets built with Scriptable app.
 
 ## Available Widgets
 
-| Widget Name | Description | Features |
+| Widget Name | Description | Display |
 |------------|-------------|----------|
-| KVG Real-time Bus | Real-time bus information display for Kiel public transport | - Real-time arrival updates<br>- Multiple bus line display<br>- Countdown timer<br>- Status indicators<br>- Configurable stop ID<br>- Customizable display entries |
+| KVG Real-time Bus | Real-time bus information display for Kiel public transport | ![](kvg/kvg.jpg) |

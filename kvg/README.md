@@ -2,6 +2,8 @@
 
 This is a Scriptable widget for displaying real-time bus information in Kiel. It helps you check the real-time arrival information for specified bus stops.
 
+![](kvg.jpg)
+
 ## Installation Steps
 
 1. Install [Scriptable](https://apps.apple.com/app/scriptable/id1405459188) app on your iOS device
